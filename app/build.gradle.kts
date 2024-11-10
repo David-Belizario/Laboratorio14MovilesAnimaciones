@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.androidcourse.laboratorio14animaciones"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.androidcourse.laboratorio14animaciones"
