@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             Laboratorio14AnimacionesTheme {
-                AnimatedVisibilityExample()
+                AnimatedScreenExample()
             }
         }
     }
